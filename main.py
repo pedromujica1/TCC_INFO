@@ -1,1 +1,0 @@
-print('Concrete by Lovejoy')
